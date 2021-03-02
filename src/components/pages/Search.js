@@ -4,9 +4,9 @@ import { Link, Route } from "react-router-dom";
 function Search (props) {
   return (
     <div>
-      <h1>Contact Page</h1>
+      <h1>References and links</h1>
       <p>
-        Application depencies
+        Application dependencies
       </p>
       <Link to="https://randomuser.me/" role="button" className="btn btn-link">
         API reference
