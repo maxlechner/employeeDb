@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASEURL = "https://dog.ceo/api/breeds/image/random";
+const BASEURL = "https://randomuser.me/api/?results=20";
 
 export default {
   search: function() {
