@@ -8,13 +8,9 @@ function Search (props) {
       <p>
         Application dependencies
       </p>
-      <Link to="https://randomuser.me/" role="button" className="btn btn-link">
-        API reference
-      </Link>{" "}
-      {/* <Link to="/contact" role="button" className="btn btn-link">
-        Learn Less
-      </Link>
-      <Route exact path={`${props.match.url}/learn`} component={Learn} /> */}
+        <a href="https://randomuser.me/" class="btn btn-info" role="button" target="_blank" rel="noopener noreferrer">RandomUser API</a>
+        <a href="https://github.com/maxlechner/employeeDb" class="btn btn-info" role="button" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+
     </div>
   );
 }

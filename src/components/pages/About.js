@@ -15,7 +15,7 @@ function About( props ) {
           <p>
             Welcome to employee tracker app!
           </p>
-          <Link to="/contact" role="button" className="btn btn-link">
+          <Link to="/discover" role="button" className="btn btn-link">
           Employee list
           </Link>
           <Route exact path={`${props.match.url}/discover`} component={Discover} />
