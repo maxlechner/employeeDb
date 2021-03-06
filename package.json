@@ -1,5 +1,5 @@
 {
-  "name": "practiceapp",
+  "name": "employeedb",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://maxlechner.github.io/employeeDb",
@@ -44,5 +44,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://maxlechner:a0ab9a114c373008ed553994b3e8726e5dbd2d30@github.com/maxlechner/employeeDb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxlechner/employeeDb/issues"
   }
 }
